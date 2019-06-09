@@ -1,0 +1,383 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="pl" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wszystkie artykuły – Wiki o Sztucznej Inteligencji</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Allpages","wgNamespaceNumber":-1,"wgPageName":"Specjalna:Wszystkie_strony","wgTitle":"Wszystkie strony","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"view","wgUserName":"Wgoral","wgUserGroups":["*","user","autoconfirmed"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"pl","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","styczeń","luty","marzec","kwiecień","maj","czerwiec","lipiec","sierpień","wrzesień","październik","listopad","grudzień"],"wgMonthNamesShort":["","sty","lut","mar","kwi","maj","cze","lip","sie","wrz","paź","lis","gru"],"wgRelevantPageName":"Specjalna:Wszystkie_strony","wgRelevantArticleId":0,"wgRequestId":"5c5880ecf61a30f667dfbd3f","wgCSPNonce":false,"wgUserId":2,"wgUserEditCount":15,"wgUserRegistration":1551252777000,"wgUserNewMsgRevisionId":null,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgWikiEditorEnabledModules":[],"wgSmjSize":110,"wgSmjUseChem":true,"wgSmjInlineMath":[["[math]","[/math]"]]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","oojs-ui.styles.textures":"ready","mediawiki.widgets.styles":"ready","oojs-ui.styles.icons-content":"ready","oojs-ui.styles.icons-alerts":"ready","oojs-ui.styles.icons-interactions":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0er13fj",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"rcfilters-limit":"50","rcfilters-rc-collapsed":0,"rcfilters-saved-queries":"{\"queries\":{},\"version\":\"2\"}"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"f5b288e9f700009581132fb3135695755cfd4c62+\\","patrolToken":"bcfb4a6c4883b9cf4f4cc577363907445cfd4c62+\\","watchToken":"7e1553f0fc99b04b1d64b2f4d74482335cfd4c62+\\","csrfToken":"f5b288e9f700009581132fb3135695755cfd4c62+\\"});
+});RLPAGEMODULES=["ext.SmjCDN","ext.SmjCDN.mobile","mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.smw.style","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/psi-wiki/load.php?debug=false&amp;lang=pl&amp;modules=ext.smw.style%7Cext.smw.tooltip.styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/psi-wiki/load.php?debug=false&amp;lang=pl&amp;modules=mediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.styles%7Coojs-ui.styles.icons-alerts%2Cicons-content%2Cicons-interactions%2Cindicators%2Ctextures%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/psi-wiki/load.php?debug=false&amp;lang=pl&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/psi-wiki/opensearch_desc.php" title="Wiki o Sztucznej Inteligencji (pl)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://krzysztof.kutt.pl/psi-wiki/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="Kanał Atom Wiki o Sztucznej Inteligencji" href="/psi-wiki/index.php?title=Specjalna:Ostatnie_zmiany&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/psi-wiki/load.php?debug=false&amp;lang=pl&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Specjalna_Wszystkie_strony rootpage-Specjalna_Wszystkie_strony skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="pl">Wszystkie artykuły</h1>			<div id="bodyContent" class="mw-body-content">
+								<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Przejdź do nawigacji</a>
+				<a class="mw-jump-link" href="#p-search">Przejdź do wyszukiwania</a>
+				<div id="mw-content-text"><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/psi-wiki/index.php/Specjalna:Wszystkie_strony' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Wszystkie strony</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-5' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsfrom"},"align":"top","errors":[],"notices":[],"help":"","helpInline":true,"$overlay":true,"label":{"html":"Wy\u015bwietl strony, zaczynaj\u0105c od:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Wyświetl strony, zaczynając od:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsfrom' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"from","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-6' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsto"},"align":"top","errors":[],"notices":[],"help":"","helpInline":true,"$overlay":true,"label":{"html":"Wy\u015bwietl strony, ko\u0144cz\u0105c na:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Wyświetl strony, kończąc na:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsto' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"to","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='to' value='' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets' id='ooui-php-7' class='mw-htmlform-field-HTMLSelectNamespace  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"namespace"},"align":"top","errors":[],"notices":[],"help":"","helpInline":true,"$overlay":true,"label":{"html":"Przestrze\u0144 nazw:"},"classes":["mw-htmlform-field-HTMLSelectNamespace","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Przestrzeń nazw:</label></span><div class='oo-ui-fieldLayout-field'><div id='namespace' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php mw-widget-namespaceInputWidget' data-ooui='{"_":"mw.widgets.NamespaceInputWidget","includeAllValue":null,"exclude":[],"dropdown":{"$overlay":true},"name":"namespace","value":"0","inputId":"ooui-php-3"}'><select tabindex='0' aria-disabled='false' name='namespace' id='ooui-php-3' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='0' selected='selected'>(Główna)</option><option value='1'>Dyskusja</option><option value='2'>Użytkownik</option><option value='3'>Dyskusja użytkownika</option><option value='4'>Wiki o Sztucznej Inteligencji</option><option value='5'>Dyskusja Wiki o Sztucznej Inteligencji</option><option value='6'>Plik</option><option value='7'>Dyskusja pliku</option><option value='8'>MediaWiki</option><option value='9'>Dyskusja MediaWiki</option><option value='10'>Szablon</option><option value='11'>Dyskusja szablonu</option><option value='12'>Pomoc</option><option value='13'>Dyskusja pomocy</option><option value='14'>Kategoria</option><option value='15'>Dyskusja kategorii</option><option value='102'>Atrybut</option><option value='103'>Dyskusja atrybutu</option><option value='108'>Pojęcie</option><option value='109'>Dyskusja pojęcia</option><option value='112'>smw/schema</option><option value='113'>smw/schema talk</option><option value='114'>Rule</option><option value='115'>Rule talk</option></select></div></div></div></div><div id='ooui-php-8' class='mw-htmlform-field-HTMLCheckField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-inline' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"hidredirects"},"align":"inline","errors":[],"notices":[],"help":"","helpInline":true,"$overlay":true,"label":{"html":"Ukryj przekierowania"},"classes":["mw-htmlform-field-HTMLCheckField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-field'><span id='hidredirects' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-checkboxInputWidget' data-ooui='{"_":"OO.ui.CheckboxInputWidget","name":"hideredirects","value":"1","inputId":"ooui-php-4"}'><input type='checkbox' tabindex='0' aria-disabled='false' name='hideredirects' value='1' id='ooui-php-4' class='oo-ui-inputWidget-input' /><span aria-disabled='false' class='oo-ui-checkboxInputWidget-checkIcon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-check oo-ui-iconElement oo-ui-iconWidget oo-ui-image-invert'></span></span></span><span class='oo-ui-fieldLayout-header'><label for='ooui-php-4' class='oo-ui-labelElement-label'>Ukryj przekierowania</label></span></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-9' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Poka\u017c","flags":["primary","progressive"],"label":"Poka\u017c","classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Pokaż' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Pokaż</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li><a href="/psi-wiki/index.php/(Nie)-ZagrozeniaSI" title="(Nie)-ZagrozeniaSI">(Nie)-ZagrozeniaSI</a></li>
+<li><a href="/psi-wiki/index.php/8-puzzle" title="8-puzzle">8-puzzle</a></li>
+<li><a href="/psi-wiki/index.php/ADALINE" title="ADALINE">ADALINE</a></li>
+<li><a href="/psi-wiki/index.php/AI_is_a_Big_Fat_Lie" title="AI is a Big Fat Lie">AI is a Big Fat Lie</a></li>
+<li><a href="/psi-wiki/index.php/AI_vs_P%C5%82atno%C5%9Bci_mobilne" title="AI vs Płatności mobilne">AI vs Płatności mobilne</a></li>
+<li><a href="/psi-wiki/index.php/AI_w_reklamie" title="AI w reklamie">AI w reklamie</a></li>
+<li><a href="/psi-wiki/index.php/AStar-v1" title="AStar-v1">AStar-v1</a></li>
+<li><a href="/psi-wiki/index.php/Active_reinforcement_learning" title="Active reinforcement learning">Active reinforcement learning</a></li>
+<li><a href="/psi-wiki/index.php/Affective_Computing" title="Affective Computing">Affective Computing</a></li>
+<li><a href="/psi-wiki/index.php/Affective_Computing:_Historia_historii" title="Affective Computing: Historia historii">Affective Computing: Historia historii</a></li>
+<li><a href="/psi-wiki/index.php/Affective_Computing:_Korzenie_przysz%C5%82o%C5%9Bci" title="Affective Computing: Korzenie przyszłości">Affective Computing: Korzenie przyszłości</a></li>
+<li><a href="/psi-wiki/index.php/AgE" title="AgE">AgE</a></li>
+<li><a href="/psi-wiki/index.php/Agent_My%C5%9Bl%C4%85cy" title="Agent Myślący">Agent Myślący</a></li>
+<li><a href="/psi-wiki/index.php/Agent_i_%C5%9Brodowisko" title="Agent i środowisko">Agent i środowisko</a></li>
+<li class="allpagesredirect"><a href="/psi-wiki/index.php/Algorytm-przeszukiwania" class="mw-redirect" title="Algorytm-przeszukiwania">Algorytm-przeszukiwania</a></li>
+<li><a href="/psi-wiki/index.php/Algorytm_A*_v1" title="Algorytm A* v1">Algorytm A* v1</a></li>
+<li><a href="/psi-wiki/index.php/Algorytm_A*_v2" title="Algorytm A* v2">Algorytm A* v2</a></li>
+<li><a href="/psi-wiki/index.php/Algorytm_Back_propagation" title="Algorytm Back propagation">Algorytm Back propagation</a></li>
+<li><a href="/psi-wiki/index.php/Algorytm_Rete" title="Algorytm Rete">Algorytm Rete</a></li>
+<li><a href="/psi-wiki/index.php/Algorytm_przeszukiwania" title="Algorytm przeszukiwania">Algorytm przeszukiwania</a></li>
+<li><a href="/psi-wiki/index.php/Algorytm_stada_/_obiekty_ptako-podobne" title="Algorytm stada / obiekty ptako-podobne">Algorytm stada / obiekty ptako-podobne</a></li>
+<li><a href="/psi-wiki/index.php/Algorytm_zach%C5%82anny" title="Algorytm zachłanny">Algorytm zachłanny</a></li>
+<li><a href="/psi-wiki/index.php/All_models_are_wrong" title="All models are wrong">All models are wrong</a></li>
+<li><a href="/psi-wiki/index.php/Alpha-Beta_Pruning" title="Alpha-Beta Pruning">Alpha-Beta Pruning</a></li>
+<li><a href="/psi-wiki/index.php/AlphaGo" title="AlphaGo">AlphaGo</a></li>
+<li><a href="/psi-wiki/index.php/AlphaStar" title="AlphaStar">AlphaStar</a></li>
+<li><a href="/psi-wiki/index.php/Alpha_Zero" title="Alpha Zero">Alpha Zero</a></li>
+<li><a href="/psi-wiki/index.php/Anomaly_Detection" title="Anomaly Detection">Anomaly Detection</a></li>
+<li><a href="/psi-wiki/index.php/Applying_RL_for_web_pages_ranking_algorithms" title="Applying RL for web pages ranking algorithms">Applying RL for web pages ranking algorithms</a></li>
+<li><a href="/psi-wiki/index.php/Architektury_sieci_neuronowych" title="Architektury sieci neuronowych">Architektury sieci neuronowych</a></li>
+<li><a href="/psi-wiki/index.php/Automatyczna_ocena_esej%C3%B3w" title="Automatyczna ocena esejów">Automatyczna ocena esejów</a></li>
+<li><a href="/psi-wiki/index.php/Backtracking" title="Backtracking">Backtracking</a></li>
+<li><a href="/psi-wiki/index.php/Bezpieczna_SI" title="Bezpieczna SI">Bezpieczna SI</a></li>
+<li><a href="/psi-wiki/index.php/Biblioteki_do_Pythona" title="Biblioteki do Pythona">Biblioteki do Pythona</a></li>
+<li><a href="/psi-wiki/index.php/Bidirectional_Search" title="Bidirectional Search">Bidirectional Search</a></li>
+<li><a href="/psi-wiki/index.php/Breadth-First_Search" title="Breadth-First Search">Breadth-First Search</a></li>
+<li><a href="/psi-wiki/index.php/Budowa_i_dzialanie_systemow_ekspertowych" title="Budowa i dzialanie systemow ekspertowych">Budowa i dzialanie systemow ekspertowych</a></li>
+<li><a href="/psi-wiki/index.php/Budowa_systemu_ekspertowego" title="Budowa systemu ekspertowego">Budowa systemu ekspertowego</a></li>
+<li><a href="/psi-wiki/index.php/CLIPS:_Deffacts" title="CLIPS: Deffacts">CLIPS: Deffacts</a></li>
+<li><a href="/psi-wiki/index.php/CLIPS:_Deftemplate" title="CLIPS: Deftemplate">CLIPS: Deftemplate</a></li>
+<li><a href="/psi-wiki/index.php/CLIPS_Defrule" title="CLIPS Defrule">CLIPS Defrule</a></li>
+<li><a href="/psi-wiki/index.php/Can_Machines_Have_Common_Sense" title="Can Machines Have Common Sense">Can Machines Have Common Sense</a></li>
+<li><a href="/psi-wiki/index.php/Chatbots_wtih_ML" title="Chatbots wtih ML">Chatbots wtih ML</a></li>
+<li><a href="/psi-wiki/index.php/Chi%C5%84ski_Pok%C3%B3j" title="Chiński Pokój">Chiński Pokój</a></li>
+<li><a href="/psi-wiki/index.php/Clips_Overview" title="Clips Overview">Clips Overview</a></li>
+<li><a href="/psi-wiki/index.php/Conceptual_Graphs" title="Conceptual Graphs">Conceptual Graphs</a></li>
+<li><a href="/psi-wiki/index.php/Convolutional_Neural_Networks" title="Convolutional Neural Networks">Convolutional Neural Networks</a></li>
+<li><a href="/psi-wiki/index.php/Creating_art_with_deep_learning_(and_Tensorflow)" title="Creating art with deep learning (and Tensorflow)">Creating art with deep learning (and Tensorflow)</a></li>
+<li><a href="/psi-wiki/index.php/DL_w_biologii_kom%C3%B3rkowej" title="DL w biologii komórkowej">DL w biologii komórkowej</a></li>
+<li><a href="/psi-wiki/index.php/DL_w_cytologii" title="DL w cytologii">DL w cytologii</a></li>
+<li><a href="/psi-wiki/index.php/Data_Scientists,_Data_Engineers,_Software_Engineers" title="Data Scientists, Data Engineers, Software Engineers">Data Scientists, Data Engineers, Software Engineers</a></li>
+<li><a href="/psi-wiki/index.php/DeepChess" title="DeepChess">DeepChess</a></li>
+<li><a href="/psi-wiki/index.php/DeepFace" title="DeepFace">DeepFace</a></li>
+<li><a href="/psi-wiki/index.php/DeepFake" title="DeepFake">DeepFake</a></li>
+<li><a href="/psi-wiki/index.php/DeepFool" title="DeepFool">DeepFool</a></li>
+<li><a href="/psi-wiki/index.php/DeepLearning4J" title="DeepLearning4J">DeepLearning4J</a></li>
+<li><a href="/psi-wiki/index.php/Deep_Learning_for_Clinical_Diagnostics" title="Deep Learning for Clinical Diagnostics">Deep Learning for Clinical Diagnostics</a></li>
+<li><a href="/psi-wiki/index.php/Deep_Learning_i_zdj%C4%99cia_z_rezonansu_magnetycznego" title="Deep Learning i zdjęcia z rezonansu magnetycznego">Deep Learning i zdjęcia z rezonansu magnetycznego</a></li>
+<li><a href="/psi-wiki/index.php/Deep_Learning_w_dermatopatologii" title="Deep Learning w dermatopatologii">Deep Learning w dermatopatologii</a></li>
+<li><a href="/psi-wiki/index.php/Deep_learning" title="Deep learning">Deep learning</a></li>
+<li><a href="/psi-wiki/index.php/Deep_learning_in_space" title="Deep learning in space">Deep learning in space</a></li>
+<li><a href="/psi-wiki/index.php/Deepening_depth_first_search" title="Deepening depth first search">Deepening depth first search</a></li>
+<li><a href="/psi-wiki/index.php/Definicja_problemu_CSP" title="Definicja problemu CSP">Definicja problemu CSP</a></li>
+<li><a href="/psi-wiki/index.php/Definicja_problemu_przeszukiwania" title="Definicja problemu przeszukiwania">Definicja problemu przeszukiwania</a></li>
+<li><a href="/psi-wiki/index.php/Deploying_AI_Driven_Systems" title="Deploying AI Driven Systems">Deploying AI Driven Systems</a></li>
+<li><a href="/psi-wiki/index.php/Depth-First_Search" title="Depth-First Search">Depth-First Search</a></li>
+<li><a href="/psi-wiki/index.php/Depth_Limited_Search" title="Depth Limited Search">Depth Limited Search</a></li>
+<li><a href="/psi-wiki/index.php/Dialogflow" title="Dialogflow">Dialogflow</a></li>
+<li><a href="/psi-wiki/index.php/Dlaczego_Normalizacja_Danych_Jest_Wa%C5%BCna" title="Dlaczego Normalizacja Danych Jest Ważna">Dlaczego Normalizacja Danych Jest Ważna</a></li>
+<li><a href="/psi-wiki/index.php/Dlaczego_silnik_regu%C5%82owy%3F" title="Dlaczego silnik regułowy?">Dlaczego silnik regułowy?</a></li>
+<li><a href="/psi-wiki/index.php/DolphinAttack" title="DolphinAttack">DolphinAttack</a></li>
+<li><a href="/psi-wiki/index.php/Drzewa_decyzyjne_v1" title="Drzewa decyzyjne v1">Drzewa decyzyjne v1</a></li>
+<li><a href="/psi-wiki/index.php/Drzewa_decyzyjne_v2" title="Drzewa decyzyjne v2">Drzewa decyzyjne v2</a></li>
+<li><a href="/psi-wiki/index.php/Dynamic_game_difficulty_balancing" title="Dynamic game difficulty balancing">Dynamic game difficulty balancing</a></li>
+<li><a href="/psi-wiki/index.php/Dynamiczne_balansowanie_poziomu_trudno%C5%9Bci_gry" title="Dynamiczne balansowanie poziomu trudności gry">Dynamiczne balansowanie poziomu trudności gry</a></li>
+<li><a href="/psi-wiki/index.php/Ensemble_Learning" title="Ensemble Learning">Ensemble Learning</a></li>
+<li><a href="/psi-wiki/index.php/Ensemble_Learning_v2" title="Ensemble Learning v2">Ensemble Learning v2</a></li>
+<li><a href="/psi-wiki/index.php/Ewaluacja_modeli" title="Ewaluacja modeli">Ewaluacja modeli</a></li>
+<li><a href="/psi-wiki/index.php/Explainable_AI" title="Explainable AI">Explainable AI</a></li>
+<li><a href="/psi-wiki/index.php/Explainable_AI_Intro" title="Explainable AI Intro">Explainable AI Intro</a></li>
+<li><a href="/psi-wiki/index.php/Explanatory_gap" title="Explanatory gap">Explanatory gap</a></li>
+<li><a href="/psi-wiki/index.php/Feature-wise_Linear_Modulation" title="Feature-wise Linear Modulation">Feature-wise Linear Modulation</a></li>
+<li><a href="/psi-wiki/index.php/Filtr_spamu_w_Gmailu" title="Filtr spamu w Gmailu">Filtr spamu w Gmailu</a></li>
+<li><a href="/psi-wiki/index.php/Forward_and_backward_chaining" title="Forward and backward chaining">Forward and backward chaining</a></li>
+<li><a href="/psi-wiki/index.php/Friend_or_Foe" title="Friend or Foe">Friend or Foe</a></li>
+<li><a href="/psi-wiki/index.php/Funkcje_Aktywacji" title="Funkcje Aktywacji">Funkcje Aktywacji</a></li>
+<li><a href="/psi-wiki/index.php/GAN" title="GAN">GAN</a></li>
+<li><a href="/psi-wiki/index.php/GAN_-_wybrane_zastosowania" title="GAN - wybrane zastosowania">GAN - wybrane zastosowania</a></li>
+<li><a href="/psi-wiki/index.php/Gecode" title="Gecode">Gecode</a></li>
+<li><a href="/psi-wiki/index.php/General_game_playing" title="General game playing">General game playing</a></li>
+<li><a href="/psi-wiki/index.php/Generalization_in_reinforcement_learning" title="Generalization in reinforcement learning">Generalization in reinforcement learning</a></li>
+<li><a href="/psi-wiki/index.php/Generate-and-test" title="Generate-and-test">Generate-and-test</a></li>
+<li><a href="/psi-wiki/index.php/Google_%26_Semantic_Web" title="Google &amp; Semantic Web">Google &amp; Semantic Web</a></li>
+<li><a href="/psi-wiki/index.php/Google_DeepDream" title="Google DeepDream">Google DeepDream</a></li>
+<li><a href="/psi-wiki/index.php/Google_OR-Tools_CP_solver" title="Google OR-Tools CP solver">Google OR-Tools CP solver</a></li>
+<li><a href="/psi-wiki/index.php/Google_Translatotron" title="Google Translatotron">Google Translatotron</a></li>
+<li><a href="/psi-wiki/index.php/Gramatyki" title="Gramatyki">Gramatyki</a></li>
+<li><a href="/psi-wiki/index.php/Gry-podstawowe_poj%C4%99cia" title="Gry-podstawowe pojęcia">Gry-podstawowe pojęcia</a></li>
+<li><a href="/psi-wiki/index.php/Harmonogramowanie" title="Harmonogramowanie">Harmonogramowanie</a></li>
+<li><a href="/psi-wiki/index.php/Heurystyki_dla_siatki" title="Heurystyki dla siatki">Heurystyki dla siatki</a></li>
+<li><a href="/psi-wiki/index.php/Hierarchiczna_klasteryzacja" title="Hierarchiczna klasteryzacja">Hierarchiczna klasteryzacja</a></li>
+<li><a href="/psi-wiki/index.php/How_NLP_%26_Deep_Learning_Improve_Uber%E2%80%99s_Maps" title="How NLP &amp; Deep Learning Improve Uber’s Maps">How NLP &amp; Deep Learning Improve Uber’s Maps</a></li>
+<li><a href="/psi-wiki/index.php/Instrumental_Convergence" title="Instrumental Convergence">Instrumental Convergence</a></li>
+<li><a href="/psi-wiki/index.php/Intuicja" title="Intuicja">Intuicja</a></li>
+<li><a href="/psi-wiki/index.php/Iterative_Deepening_depth_first_search" title="Iterative Deepening depth first search">Iterative Deepening depth first search</a></li>
+<li><a href="/psi-wiki/index.php/JaCoP" title="JaCoP">JaCoP</a></li>
+<li><a href="/psi-wiki/index.php/K-means:_r%C3%B3%C5%BCne_wersje" title="K-means: różne wersje">K-means: różne wersje</a></li>
+<li><a href="/psi-wiki/index.php/Keras" title="Keras">Keras</a></li>
+<li><a href="/psi-wiki/index.php/Kjanecki" title="Kjanecki">Kjanecki</a></li>
+<li><a href="/psi-wiki/index.php/Klasteryzacja:_EM_i_k-means" title="Klasteryzacja: EM i k-means">Klasteryzacja: EM i k-means</a></li>
+<li><a href="/psi-wiki/index.php/Klasteryzacja_EM" title="Klasteryzacja EM">Klasteryzacja EM</a></li>
+<li><a href="/psi-wiki/index.php/Klasteryzacja_dokument%C3%B3w_z_TF-IDF" title="Klasteryzacja dokumentów z TF-IDF">Klasteryzacja dokumentów z TF-IDF</a></li>
+<li><a href="/psi-wiki/index.php/Klasyfikacja_emocji_twarzy" title="Klasyfikacja emocji twarzy">Klasyfikacja emocji twarzy</a></li>
+<li><a href="/psi-wiki/index.php/Konkretne_Problemy_W_Bezpiecze%C5%84stwie_Sztucznej_Inteligencji" title="Konkretne Problemy W Bezpieczeństwie Sztucznej Inteligencji">Konkretne Problemy W Bezpieczeństwie Sztucznej Inteligencji</a></li>
+<li><a href="/psi-wiki/index.php/Learning_Issues" title="Learning Issues">Learning Issues</a></li>
+<li><a href="/psi-wiki/index.php/Linked_Data" title="Linked Data">Linked Data</a></li>
+<li><a href="/psi-wiki/index.php/Linked_open_data" title="Linked open data">Linked open data</a></li>
+<li><a href="/psi-wiki/index.php/Local_Search_w_CSP" title="Local Search w CSP">Local Search w CSP</a></li>
+<li><a href="/psi-wiki/index.php/Logika_rozmyta" title="Logika rozmyta">Logika rozmyta</a></li>
+<li><a href="/psi-wiki/index.php/Lowest-Cost-First_Search" title="Lowest-Cost-First Search">Lowest-Cost-First Search</a></li>
+<li><a href="/psi-wiki/index.php/Ludwig" title="Ludwig">Ludwig</a></li>
+<li><a href="/psi-wiki/index.php/ML_a_Data_Science" title="ML a Data Science">ML a Data Science</a></li>
+<li><a href="/psi-wiki/index.php/ML_vs_Big_Data" title="ML vs Big Data">ML vs Big Data</a></li>
+<li><a href="/psi-wiki/index.php/MLpack" title="MLpack">MLpack</a></li>
+<li><a href="/psi-wiki/index.php/Machine-Generated_Book_about_Batteries" title="Machine-Generated Book about Batteries">Machine-Generated Book about Batteries</a></li>
+<li><a href="/psi-wiki/index.php/Machine_Learning_Workflow" title="Machine Learning Workflow">Machine Learning Workflow</a></li>
+<li><a href="/psi-wiki/index.php/Machine_learning" title="Machine learning">Machine learning</a></li>
+<li><a href="/psi-wiki/index.php/Market_segmentation" title="Market segmentation">Market segmentation</a></li>
+<li><a href="/psi-wiki/index.php/MiniMax" title="MiniMax">MiniMax</a></li>
+<li><a href="/psi-wiki/index.php/MiniZinc" title="MiniZinc">MiniZinc</a></li>
+<li><a href="/psi-wiki/index.php/Modele_j%C4%99zykowe_i_klasyfikacja" title="Modele językowe i klasyfikacja">Modele językowe i klasyfikacja</a></li>
+<li><a href="/psi-wiki/index.php/Moral_Machine_Experiment" title="Moral Machine Experiment">Moral Machine Experiment</a></li>
+<li><a href="/psi-wiki/index.php/Mo%C5%BCliwe_%C5%9Bwiaty" title="Możliwe światy">Możliwe światy</a></li>
+<li><a href="/psi-wiki/index.php/Naiwny_klasyfikator_bayesowski" title="Naiwny klasyfikator bayesowski">Naiwny klasyfikator bayesowski</a></li>
+<li><a href="/psi-wiki/index.php/Najwa%C5%BCniejsze_osi%C4%85gni%C4%99cia_AI_w_2018" title="Najważniejsze osiągnięcia AI w 2018">Najważniejsze osiągnięcia AI w 2018</a></li>
+<li><a href="/psi-wiki/index.php/Neural_Turing_Machines" title="Neural Turing Machines">Neural Turing Machines</a></li>
+<li><a href="/psi-wiki/index.php/Niepewno%C5%9B%C4%87" title="Niepewność">Niepewność</a></li>
+<li><a href="/psi-wiki/index.php/Niezaleznosc" title="Niezaleznosc">Niezaleznosc</a></li>
+<li><a href="/psi-wiki/index.php/Notacja_tr%C3%B3jkowa" title="Notacja trójkowa">Notacja trójkowa</a></li>
+<li><a href="/psi-wiki/index.php/Nvidia_StyleGAN" title="Nvidia StyleGAN">Nvidia StyleGAN</a></li>
+<li><a href="/psi-wiki/index.php/OWL" title="OWL">OWL</a></li>
+<li><a href="/psi-wiki/index.php/Obszarowe_Sieci_Neuronowe" title="Obszarowe Sieci Neuronowe">Obszarowe Sieci Neuronowe</a></li>
+<li><a href="/psi-wiki/index.php/Ocena_jako%C5%9Bci_ontologii" title="Ocena jakości ontologii">Ocena jakości ontologii</a></li>
+<li><a href="/psi-wiki/index.php/Ograniczenia" title="Ograniczenia">Ograniczenia</a></li>
+<li><a href="/psi-wiki/index.php/Online-Search" title="Online-Search">Online-Search</a></li>
+<li><a href="/psi-wiki/index.php/Ontologia" title="Ontologia">Ontologia</a></li>
+<li><a href="/psi-wiki/index.php/OpenAI_Five" title="OpenAI Five">OpenAI Five</a></li>
+<li><a href="/psi-wiki/index.php/Open_World_Assumption_vs_Closed_World_Assumption" title="Open World Assumption vs Closed World Assumption">Open World Assumption vs Closed World Assumption</a></li>
+<li><a href="/psi-wiki/index.php/Osoby_zwi%C4%85zane_z_systemem_regu%C5%82owym" title="Osoby związane z systemem regułowym">Osoby związane z systemem regułowym</a></li>
+<li><a href="/psi-wiki/index.php/Overfitting_i_sposoby_radzenia_sobie_z_nim" title="Overfitting i sposoby radzenia sobie z nim">Overfitting i sposoby radzenia sobie z nim</a></li>
+<li><a href="/psi-wiki/index.php/Paradoks_Moravecca" title="Paradoks Moravecca">Paradoks Moravecca</a></li>
+<li><a href="/psi-wiki/index.php/Parallel_Training_of_Deep_Stacking_Networks" title="Parallel Training of Deep Stacking Networks">Parallel Training of Deep Stacking Networks</a></li>
+<li><a href="/psi-wiki/index.php/Parsowanie_tekstu" title="Parsowanie tekstu">Parsowanie tekstu</a></li>
+<li><a href="/psi-wiki/index.php/Passive_reinforcement_learning" title="Passive reinforcement learning">Passive reinforcement learning</a></li>
+<li><a href="/psi-wiki/index.php/Perceptron" title="Perceptron">Perceptron</a></li>
+<li><a href="/psi-wiki/index.php/Perceptron_II" title="Perceptron II">Perceptron II</a></li>
+<li><a href="/psi-wiki/index.php/Planowanie_Automatyczne" title="Planowanie Automatyczne">Planowanie Automatyczne</a></li>
+<li><a href="/psi-wiki/index.php/Podej%C5%9Bcia_do_SI" title="Podejścia do SI">Podejścia do SI</a></li>
+<li><a href="/psi-wiki/index.php/Poj%C4%99cia_grafowe" title="Pojęcia grafowe">Pojęcia grafowe</a></li>
+<li><a href="/psi-wiki/index.php/Policy_search" title="Policy search">Policy search</a></li>
+<li><a href="/psi-wiki/index.php/Prawdopodobie%C5%84stwo" title="Prawdopodobieństwo">Prawdopodobieństwo</a></li>
+<li><a href="/psi-wiki/index.php/Prawdopodobie%C5%84stwo_i_Regu%C5%82a_Bayesa" title="Prawdopodobieństwo i Reguła Bayesa">Prawdopodobieństwo i Reguła Bayesa</a></li>
+<li><a href="/psi-wiki/index.php/Predicting_Airbnb_prices_with_ML_and_DL" title="Predicting Airbnb prices with ML and DL">Predicting Airbnb prices with ML and DL</a></li>
+<li><a href="/psi-wiki/index.php/Problem_kolorowania_mapy" title="Problem kolorowania mapy">Problem kolorowania mapy</a></li>
+<li><a href="/psi-wiki/index.php/Problem_spe%C5%82nialno%C5%9Bci_(SAT)" title="Problem spełnialności (SAT)">Problem spełnialności (SAT)</a></li>
+<li><a href="/psi-wiki/index.php/Programista" title="Programista">Programista</a></li>
+<li><a href="/psi-wiki/index.php/Projekt_DBpedia" title="Projekt DBpedia">Projekt DBpedia</a></li>
+<li><a href="/psi-wiki/index.php/Projekt_WikiData" title="Projekt WikiData">Projekt WikiData</a></li>
+<li><a href="/psi-wiki/index.php/PropagacjaOgraniczenV2" title="PropagacjaOgraniczenV2">PropagacjaOgraniczenV2</a></li>
+<li><a href="/psi-wiki/index.php/Propagacja_ogranicze%C5%84" title="Propagacja ograniczeń">Propagacja ograniczeń</a></li>
+<li><a href="/psi-wiki/index.php/Przegl%C4%85d_inteligentnych_graczy" title="Przegląd inteligentnych graczy">Przegląd inteligentnych graczy</a></li>
+<li><a href="/psi-wiki/index.php/Przeszukiwanie_lokalne" title="Przeszukiwanie lokalne">Przeszukiwanie lokalne</a></li>
+<li><a href="/psi-wiki/index.php/Przyk%C5%82adowe_problemy" title="Przykładowe problemy">Przykładowe problemy</a></li>
+<li><a href="/psi-wiki/index.php/Przypadki_u%C5%BCycia_dla_sztucznej_inteligencji" title="Przypadki użycia dla sztucznej inteligencji">Przypadki użycia dla sztucznej inteligencji</a></li>
+<li><a href="/psi-wiki/index.php/Railyard" title="Railyard">Railyard</a></li>
+<li><a href="/psi-wiki/index.php/Random_Forest" title="Random Forest">Random Forest</a></li>
+<li><a href="/psi-wiki/index.php/Regresja_liniowa_v1" title="Regresja liniowa v1">Regresja liniowa v1</a></li>
+<li><a href="/psi-wiki/index.php/Regresja_liniowa_v2" title="Regresja liniowa v2">Regresja liniowa v2</a></li>
+<li><a href="/psi-wiki/index.php/Regu%C5%82a_Bayesa" title="Reguła Bayesa">Reguła Bayesa</a></li>
+<li><a href="/psi-wiki/index.php/Regu%C5%82y:_budowa_i_rodzaje" title="Reguły: budowa i rodzaje">Reguły: budowa i rodzaje</a></li>
+<li><a href="/psi-wiki/index.php/Regu%C5%82y_asocjacyjne" title="Reguły asocjacyjne">Reguły asocjacyjne</a></li>
+<li><a href="/psi-wiki/index.php/Reinforcement_Learning_w_robotyce" title="Reinforcement Learning w robotyce">Reinforcement Learning w robotyce</a></li>
+<li><a href="/psi-wiki/index.php/Reinforcement_Learning_w_wyszukiwarce_Google" title="Reinforcement Learning w wyszukiwarce Google">Reinforcement Learning w wyszukiwarce Google</a></li>
+<li><a href="/psi-wiki/index.php/Reinforcement_learning" title="Reinforcement learning">Reinforcement learning</a></li>
+<li><a href="/psi-wiki/index.php/Reinforcement_learning_codebullet" title="Reinforcement learning codebullet">Reinforcement learning codebullet</a></li>
+<li><a href="/psi-wiki/index.php/Reinforcement_learning_example" title="Reinforcement learning example">Reinforcement learning example</a></li>
+<li><a href="/psi-wiki/index.php/Reprezentacje_wiedzy" title="Reprezentacje wiedzy">Reprezentacje wiedzy</a></li>
+<li><a href="/psi-wiki/index.php/Research_Papers" title="Research Papers">Research Papers</a></li>
+<li><a href="/psi-wiki/index.php/Rnn-in-clinical-diagnostics" title="Rnn-in-clinical-diagnostics">Rnn-in-clinical-diagnostics</a></li>
+<li><a href="/psi-wiki/index.php/Robots,_Aging_Population_and_Pets" title="Robots, Aging Population and Pets">Robots, Aging Population and Pets</a></li>
+<li><a href="/psi-wiki/index.php/Rodzaje_uczenia" title="Rodzaje uczenia">Rodzaje uczenia</a></li>
+<li><a href="/psi-wiki/index.php/Rozwiazywanie_Konfliktow" title="Rozwiazywanie Konfliktow">Rozwiazywanie Konfliktow</a></li>
+<li><a href="/psi-wiki/index.php/R%C3%B3%C5%BCne_reprezentacje" title="Różne reprezentacje">Różne reprezentacje</a></li>
+<li><a href="/psi-wiki/index.php/SAT_Solvers_as_Smart_Search_Engines" title="SAT Solvers as Smart Search Engines">SAT Solvers as Smart Search Engines</a></li>
+<li><a href="/psi-wiki/index.php/SSD_object_detection" title="SSD object detection">SSD object detection</a></li>
+<li><a href="/psi-wiki/index.php/Schema.org" title="Schema.org">Schema.org</a></li>
+<li><a href="/psi-wiki/index.php/Semantic_Web_Stack" title="Semantic Web Stack">Semantic Web Stack</a></li>
+<li><a href="/psi-wiki/index.php/Semantyka_sieci_Bayesowskich" title="Semantyka sieci Bayesowskich">Semantyka sieci Bayesowskich</a></li>
+<li><a href="/psi-wiki/index.php/Sieci_Bayesowskie_v1" title="Sieci Bayesowskie v1">Sieci Bayesowskie v1</a></li>
+<li><a href="/psi-wiki/index.php/Sieci_Bayesowskie_v2" title="Sieci Bayesowskie v2">Sieci Bayesowskie v2</a></li>
+<li><a href="/psi-wiki/index.php/Sieci_LSTM" title="Sieci LSTM">Sieci LSTM</a></li>
+<li><a href="/psi-wiki/index.php/Sieci_Neuronowe" title="Sieci Neuronowe">Sieci Neuronowe</a></li>
+<li><a href="/psi-wiki/index.php/Sieci_neuronowe_i_back_propagation" title="Sieci neuronowe i back propagation">Sieci neuronowe i back propagation</a></li>
+<li><a href="/psi-wiki/index.php/Sie%C4%87_NMT_w_Google_Translatorze" title="Sieć NMT w Google Translatorze">Sieć NMT w Google Translatorze</a></li>
+<li><a href="/psi-wiki/index.php/Sigmoid_Neuron_explained" title="Sigmoid Neuron explained">Sigmoid Neuron explained</a></li>
+<li><a href="/psi-wiki/index.php/Silna_vs_S%C5%82aba_SI" title="Silna vs Słaba SI">Silna vs Słaba SI</a></li>
+<li><a href="/psi-wiki/index.php/Solving_CSPs_Using_Search" title="Solving CSPs Using Search">Solving CSPs Using Search</a></li>
+<li><a href="/psi-wiki/index.php/Spis_stron_na_kartk%C3%B3wki" title="Spis stron na kartkówki">Spis stron na kartkówki</a></li>
+<li><a href="/psi-wiki/index.php/Spis_wszystkich_stron" title="Spis wszystkich stron">Spis wszystkich stron</a></li>
+<li><a href="/psi-wiki/index.php/Statistical_Intuitive_vs._Symbolic_Reasoning_Systems" title="Statistical Intuitive vs. Symbolic Reasoning Systems">Statistical Intuitive vs. Symbolic Reasoning Systems</a></li>
+<li><a href="/psi-wiki/index.php/Statystyka_vs_machine_learning" title="Statystyka vs machine learning">Statystyka vs machine learning</a></li>
+<li><a href="/psi-wiki/index.php/Strona_g%C5%82%C3%B3wna" title="Strona główna">Strona główna</a></li>
+<li><a href="/psi-wiki/index.php/Strona_g%C5%82%C3%B3wna/Transductive_Learning" title="Strona główna/Transductive Learning">Strona główna/Transductive Learning</a></li>
+<li><a href="/psi-wiki/index.php/Sudoku" title="Sudoku">Sudoku</a></li>
+<li><a href="/psi-wiki/index.php/Support_Vector_Machines_v1" title="Support Vector Machines v1">Support Vector Machines v1</a></li>
+<li><a href="/psi-wiki/index.php/Support_Vector_Machines_v2" title="Support Vector Machines v2">Support Vector Machines v2</a></li>
+<li><a href="/psi-wiki/index.php/Systemy_Rekomendacyjne" title="Systemy Rekomendacyjne">Systemy Rekomendacyjne</a></li>
+<li><a href="/psi-wiki/index.php/Systemy_Rekomendacyjne_cz2" title="Systemy Rekomendacyjne cz2">Systemy Rekomendacyjne cz2</a></li>
+<li><a href="/psi-wiki/index.php/Sztuczna_Inteligencja" title="Sztuczna Inteligencja">Sztuczna Inteligencja</a></li>
+<li><a href="/psi-wiki/index.php/Sztuczna_vs_Naturalna_inteligencja" title="Sztuczna vs Naturalna inteligencja">Sztuczna vs Naturalna inteligencja</a></li>
+<li><a href="/psi-wiki/index.php/Szukanie_%C5%9Bcie%C5%BCek_w_%C5%9Brodowisku_3D" title="Szukanie ścieżek w środowisku 3D">Szukanie ścieżek w środowisku 3D</a></li>
+<li><a href="/psi-wiki/index.php/TBox_vs_ABox" title="TBox vs ABox">TBox vs ABox</a></li>
+<li><a href="/psi-wiki/index.php/Tensor_Flow" title="Tensor Flow">Tensor Flow</a></li>
+<li><a href="/psi-wiki/index.php/Teoria_wielkiej_symulacji" title="Teoria wielkiej symulacji">Teoria wielkiej symulacji</a></li>
+<li><a href="/psi-wiki/index.php/Tesseract_OCR" title="Tesseract OCR">Tesseract OCR</a></li>
+<li><a href="/psi-wiki/index.php/Test_Turinga" title="Test Turinga">Test Turinga</a></li>
+<li><a href="/psi-wiki/index.php/The-quiet-semi-supervised-revolution" title="The-quiet-semi-supervised-revolution">The-quiet-semi-supervised-revolution</a></li>
+<li><a href="/psi-wiki/index.php/The_Ethics_Of_AI" title="The Ethics Of AI">The Ethics Of AI</a></li>
+<li><a href="/psi-wiki/index.php/The_Quiet_Semi-Supervised_Revolution" title="The Quiet Semi-Supervised Revolution">The Quiet Semi-Supervised Revolution</a></li>
+<li><a href="/psi-wiki/index.php/Transductive_Learning" title="Transductive Learning">Transductive Learning</a></li>
+<li><a href="/psi-wiki/index.php/Transfer_Learning" title="Transfer Learning">Transfer Learning</a></li>
+<li><a href="/psi-wiki/index.php/Transforming_Paintings_and_Photos_Into_Animations_With_AI" title="Transforming Paintings and Photos Into Animations With AI">Transforming Paintings and Photos Into Animations With AI</a></li>
+<li><a href="/psi-wiki/index.php/TuNaszaNazwa" title="TuNaszaNazwa">TuNaszaNazwa</a></li>
+<li><a href="/psi-wiki/index.php/T%C5%82umaczenie-maszynowe" title="Tłumaczenie-maszynowe">Tłumaczenie-maszynowe</a></li>
+<li><a href="/psi-wiki/index.php/Uczenie_Bayesowskie" title="Uczenie Bayesowskie">Uczenie Bayesowskie</a></li>
+<li><a href="/psi-wiki/index.php/Uczenie_nadzorowane_v1" title="Uczenie nadzorowane v1">Uczenie nadzorowane v1</a></li>
+<li><a href="/psi-wiki/index.php/Uczenie_nadzorowane_v2" title="Uczenie nadzorowane v2">Uczenie nadzorowane v2</a></li>
+<li><a href="/psi-wiki/index.php/Uczenie_sieci_bayesowskich" title="Uczenie sieci bayesowskich">Uczenie sieci bayesowskich</a></li>
+<li><a href="/psi-wiki/index.php/Uczenie_wielozadaniowe" title="Uczenie wielozadaniowe">Uczenie wielozadaniowe</a></li>
+<li><a href="/psi-wiki/index.php/Uniform_Cost_Search" title="Uniform Cost Search">Uniform Cost Search</a></li>
+<li><a href="/psi-wiki/index.php/Use_case_for_DBpedia" title="Use case for DBpedia">Use case for DBpedia</a></li>
+<li><a href="/psi-wiki/index.php/Variable_Elimination" title="Variable Elimination">Variable Elimination</a></li>
+<li><a href="/psi-wiki/index.php/Warunkowanie_instrumentalne" title="Warunkowanie instrumentalne">Warunkowanie instrumentalne</a></li>
+<li><a href="/psi-wiki/index.php/Weka" title="Weka">Weka</a></li>
+<li><a href="/psi-wiki/index.php/What_Happens_When_Our_Computers_Get_Smarter_Than_We_Are%3F" title="What Happens When Our Computers Get Smarter Than We Are?">What Happens When Our Computers Get Smarter Than We Are?</a></li>
+<li><a href="/psi-wiki/index.php/What_can_AGI_do" title="What can AGI do">What can AGI do</a></li>
+<li><a href="/psi-wiki/index.php/Wiedza_ekspert%C3%B3w_w_grach" title="Wiedza ekspertów w grach">Wiedza ekspertów w grach</a></li>
+<li><a href="/psi-wiki/index.php/Wnioskowanie_probabilistyczne" title="Wnioskowanie probabilistyczne">Wnioskowanie probabilistyczne</a></li>
+<li><a href="/psi-wiki/index.php/Word2Vec" title="Word2Vec">Word2Vec</a></li>
+<li><a href="/psi-wiki/index.php/Wybor_algorytmu_uczenia_maszynowego" title="Wybor algorytmu uczenia maszynowego">Wybor algorytmu uczenia maszynowego</a></li>
+<li><a href="/psi-wiki/index.php/Wyszukiwanie_informacji" title="Wyszukiwanie informacji">Wyszukiwanie informacji</a></li>
+<li><a href="/psi-wiki/index.php/W%C5%82a%C5%9Bciwo%C5%9Bci_systemu_ekspertowego" title="Właściwości systemu ekspertowego">Właściwości systemu ekspertowego</a></li>
+<li><a href="/psi-wiki/index.php/YOLO" title="YOLO">YOLO</a></li>
+<li><a href="/psi-wiki/index.php/Zagadki_logiczne" title="Zagadki logiczne">Zagadki logiczne</a></li>
+<li><a href="/psi-wiki/index.php/Zagro%C5%BCenia_SI" title="Zagrożenia SI">Zagrożenia SI</a></li>
+<li><a href="/psi-wiki/index.php/Zalety_i_wady_systemu_ekspertowego" title="Zalety i wady systemu ekspertowego">Zalety i wady systemu ekspertowego</a></li>
+<li><a href="/psi-wiki/index.php/Zastosowania_ML_w_biznesie" title="Zastosowania ML w biznesie">Zastosowania ML w biznesie</a></li>
+<li><a href="/psi-wiki/index.php/Zastosowania_reinforcement_learning" title="Zastosowania reinforcement learning">Zastosowania reinforcement learning</a></li>
+<li><a href="/psi-wiki/index.php/Zastosowanie_AI_w_dziedzinie_sieci_%C5%9Bwiat%C5%82owodowych" title="Zastosowanie AI w dziedzinie sieci światłowodowych">Zastosowanie AI w dziedzinie sieci światłowodowych</a></li>
+<li><a href="/psi-wiki/index.php/Zebra_Puzzle" title="Zebra Puzzle">Zebra Puzzle</a></li>
+</ul></div></div>					<div class="printfooter">
+						Źródło: „<a dir="ltr" href="https://krzysztof.kutt.pl/psi-wiki/index.php/Specjalna:Wszystkie_strony">https://krzysztof.kutt.pl/psi-wiki/index.php/Specjalna:Wszystkie_strony</a>”					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu nawigacyjne</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Narzędzia osobiste</h3>
+						<ul>
+							<li id="pt-userpage"><a href="/psi-wiki/index.php/U%C5%BCytkownik:Wgoral" dir="auto" title="Moja strona osobista [.]" accesskey=".">Wgoral</a></li><li id="pt-mytalk"><a href="/psi-wiki/index.php/Dyskusja_u%C5%BCytkownika:Wgoral" class="new" title="Moja strona dyskusji (strona nie istnieje) [n]" accesskey="n">Dyskusja</a></li><li id="pt-preferences"><a href="/psi-wiki/index.php/Specjalna:Preferencje" title="Moje preferencje">Preferencje</a></li><li id="pt-watchlist"><a href="/psi-wiki/index.php/Specjalna:Obserwowane" title="Lista stron obserwowanych przeze mnie [l]" accesskey="l">Obserwowane</a></li><li id="pt-mycontris"><a href="/psi-wiki/index.php/Specjalna:Wk%C5%82ad/Wgoral" title="Lista moich edycji [y]" accesskey="y">Edycje</a></li><li id="pt-logout"><a href="/psi-wiki/index.php?title=Specjalna:Wyloguj&amp;returnto=Specjalna%3AWszystkie+strony" title="Wyloguj">Wyloguj</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Przestrzenie nazw</h3>
+						<ul>
+							<li id="ca-nstab-special" class="selected"><span><a href="/psi-wiki/index.php/Specjalna:Wszystkie_strony" title="To jest strona specjalna i nie można jej edytować.">Strona specjalna</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Warianty</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Widok</h3>
+						<ul>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>Więcej</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Szukaj</label>
+						</h3>
+						<form action="/psi-wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Przeszukaj Wiki o Sztucznej Inteligencji" title="Przeszukaj Wiki o Sztucznej Inteligencji [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Specjalna:Szukaj" name="title"/><input type="submit" name="fulltext" value="Szukaj" title="Szukaj wprowadzonego tekstu w treści stron" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Przejdź" title="Przejdź do strony o dokładnie takim tytule, o ile istnieje" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/psi-wiki/index.php/Strona_g%C5%82%C3%B3wna"  title="Strona główna"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Nawigacja</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/psi-wiki/index.php/Strona_g%C5%82%C3%B3wna" title="Przejdź na stronę główną [z]" accesskey="z">Strona główna</a></li><li id="n-recentchanges"><a href="/psi-wiki/index.php/Specjalna:Ostatnie_zmiany" title="Lista ostatnich zmian w Wiki o Sztucznej Inteligencji. [r]" accesskey="r">Ostatnie zmiany</a></li><li id="n-randompage"><a href="/psi-wiki/index.php/Specjalna:Losowa_strona" title="Załaduj losową stronę [x]" accesskey="x">Losowa strona</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Narzędzia</h3>
+			<div class="body">
+								<ul>
+					<li id="t-upload"><a href="/psi-wiki/index.php/Specjalna:Prze%C5%9Blij" title="Prześlij pliki [u]" accesskey="u">Prześlij plik</a></li><li id="t-specialpages"><a href="/psi-wiki/index.php/Specjalna:Strony_specjalne" title="Lista wszystkich specjalnych stron [q]" accesskey="q">Strony specjalne</a></li><li id="t-print"><a href="/psi-wiki/index.php?title=Specjalna:Wszystkie_strony&amp;printable=yes" rel="alternate" title="Wersja do wydruku [p]" accesskey="p">Wersja do druku</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/psi-wiki/index.php/Wiki_o_Sztucznej_Inteligencji:Polityka_ochrony_prywatno%C5%9Bci" title="Wiki o Sztucznej Inteligencji:Polityka ochrony prywatności">Polityka ochrony prywatności</a></li>
+								<li id="footer-places-about"><a href="/psi-wiki/index.php/Wiki_o_Sztucznej_Inteligencji:O_Wiki_o_Sztucznej_Inteligencji" title="Wiki o Sztucznej Inteligencji:O Wiki o Sztucznej Inteligencji">O Wiki o Sztucznej Inteligencji</a></li>
+								<li id="footer-places-disclaimer"><a href="/psi-wiki/index.php/Wiki_o_Sztucznej_Inteligencji:Informacje_prawne" title="Wiki o Sztucznej Inteligencji:Informacje prawne">Informacje prawne</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/psi-wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/psi-wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /psi-wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a><a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="data:image/png;base64,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" alt="Powered by Semantic MediaWiki" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":185});});</script>
+	</body>
+</html>

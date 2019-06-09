@@ -152,7 +152,7 @@ public class BuildService {
         for (int i=0; i<x.length;i++){
             for (int j=0;j<x[i].getIdMembers().length;j++){
                 for (int k=0;k<y.size();k++){
-                    if (y.elementAt(k).getMemberId().equals(x[i].getIdMembers()[j])) {
+                    if (y.elementAt(k).getMemberId().equals(x[i].getIdMembers()[j])&& y.elementAt(k).getIdCard().equals(x[i].getId())) {
                         Vector<LocalDateTime> v =x[i].getStart();
                         v.add(y.elementAt(k).getTime());
                         x[i].setStart(v);
@@ -180,9 +180,7 @@ public class BuildService {
         for(int i=0; i<x.length;i++){
             for (int j =0;j<y.size();j++){
                 if (x[i].getId().equals(y.elementAt(j).getIdCard())&& y.elementAt(j).getListAfter().equals("Zrobione")) {
-
                     x[i].setMarked(y.elementAt(j).getTime());
-
                 }
             }
         }
@@ -222,8 +220,12 @@ public class BuildService {
                         Vector<LocalDateTime> a = x[i].getMemberDone();
                         a.set(j,y.get(k).getTime());
                         x[i].setMemberDone(a);
-                        System.out.println(x[i].getMemberDone());
                     }
+                }
+                if (x[i].getMemberDone().elementAt(j).equals(LocalDateTime.of(2020,1,1,1,1))) {
+                    Vector<LocalDateTime> se = x[i].getMemberDone();
+                    se.set(j,x[i].getMarked());
+                    x[i].setMemberDone(se);
                 }
             }
         }
