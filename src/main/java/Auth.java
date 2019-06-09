@@ -23,8 +23,6 @@ public class Auth {
 
         URL obj = new URL(url);
         conn = (HttpsURLConnection) obj.openConnection();
-
-        // Acts like a browser
         conn.setUseCaches(false);
         conn.setRequestMethod("POST");
         conn.setRequestProperty("Host", "krzysztof.kutt.pl/psi-wiki");
@@ -47,10 +45,7 @@ public class Auth {
         wr.flush();
         wr.close();
 
-        int responseCode = conn.getResponseCode();
-
-        BufferedReader in =
-                new BufferedReader(new InputStreamReader(conn.getInputStream()));
+        BufferedReader in = new BufferedReader(new InputStreamReader(conn.getInputStream()));
         String inputLine;
         StringBuffer response = new StringBuffer();
 
@@ -64,13 +59,8 @@ public class Auth {
 
         URL obj = new URL(url);
         conn = (HttpsURLConnection) obj.openConnection();
-
-        // default is GET
         conn.setRequestMethod("GET");
-
         conn.setUseCaches(false);
-
-        // act like a browser
         conn.setRequestProperty("User-Agent", USER_AGENT);
         conn.setRequestProperty("Accept",
                 "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8");
@@ -80,31 +70,23 @@ public class Auth {
                 conn.addRequestProperty("Cookie", cookie.split(";", 1)[0]);
             }
         }
-        int responseCode = conn.getResponseCode();
 
-        BufferedReader in =
-                new BufferedReader(new InputStreamReader(conn.getInputStream()));
+
+        BufferedReader in = new BufferedReader(new InputStreamReader(conn.getInputStream()));
         String inputLine;
         StringBuffer response = new StringBuffer();
-
         while ((inputLine = in.readLine()) != null) {
             response.append(inputLine);
         }
         in.close();
-
         setCookies(conn.getHeaderFields().get("Set-Cookie"));
-
         return response.toString();
 
     }
 
-    public String getFormParams(String html, String username, String password)
-            throws UnsupportedEncodingException {
-
-
+    public String getFormParams(String html, String username, String password) throws UnsupportedEncodingException {
 
         Document doc = Jsoup.parse(html);
-
         Element loginform = doc.getElementById("userloginForm");
         Elements inputElements = loginform.getElementsByTag("input");
         List<String> paramList = new ArrayList<String>();
@@ -117,9 +99,9 @@ public class Auth {
             else if (key.equals("wpPassword"))
                 value = password;
             paramList.add(key + "=" + URLEncoder.encode(value, "UTF-8"));
+
         }
 
-        // build parameters list
         StringBuilder result = new StringBuilder();
         for (String param : paramList) {
             if (result.length() == 0) {
