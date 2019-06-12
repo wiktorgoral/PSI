@@ -7,7 +7,6 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.net.Authenticator;
 import java.net.CookieHandler;
 import java.net.CookieManager;
 import java.time.LocalDateTime;
@@ -86,14 +85,6 @@ public class CheckService {
         return out;
     }
 
-    static class MyAuthenticator extends Authenticator {
-        private String username, password;
-
-        public MyAuthenticator(String user, String pass) {
-            username = user;
-            password = pass;
-        }
-    }
 
     public int[] hasLink() throws Exception {
         String url = "https://krzysztof.kutt.pl/psi-wiki/index.php?title=Specjalna:Zaloguj&returnto=Specjalna%3AZaloguj";
@@ -141,6 +132,9 @@ public class CheckService {
             if (stanIn != inside || stanOut != outside) {
                 System.out.println("Site https://krzysztof.kutt.pl" + strony.elementAt(i) + " has links");
                 hasLinks++;
+            }
+            else {
+                System.out.println("Site https://krzysztof.kutt.pl" + strony.elementAt(i) + " has no links");
             }
         }
 
